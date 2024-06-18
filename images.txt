@@ -5,8 +5,8 @@
 #openjdk
 redis:6.2
 mariadb:10.6
-core-ce:v3.10.10
-koko:v3.10.10
-lion:v3.10.10
-magnus:v3.10.10
-web:v3.10.10
+jumpserver/core-ce:v3.10.10
+jumpserver/koko:v3.10.10
+jumpserver/lion:v3.10.10
+jumpserver/magnus:v3.10.10
+jumpserver/web:v3.10.10
