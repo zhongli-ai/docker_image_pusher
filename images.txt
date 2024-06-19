@@ -3,8 +3,8 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #openjdk
-jumpserver/core-ce:v3.10.10
-jumpserver/koko:v3.10.10
-jumpserver/lion:v3.10.10
-jumpserver/magnus:v3.10.10
-jumpserver/web:v3.10.10
+jumpserver/core-ce:v2.25.2
+jumpserver/koko:v2.25.2
+jumpserver/lion:v2.25.2
+jumpserver/magnus:v2.25.2
+jumpserver/web:v2.25.2
