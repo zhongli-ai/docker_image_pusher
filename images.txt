@@ -1,1 +1,1 @@
-jenkinsci/blueocean
+ubuntu:20.04
