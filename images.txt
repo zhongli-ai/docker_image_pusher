@@ -1,2 +1,7 @@
 
-mysql:5.7
+mysql/mysql
+dcm4chee-arc-psql:5.13.2
+slapd-dcm4chee:2.4.44-13.2
+postgres-dcm4chee:10.0-13
+nextcloud/nextcloud
+gitlab/gitlab
