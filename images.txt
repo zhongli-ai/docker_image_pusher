@@ -1,7 +1,4 @@
 
 
-dcm4chee-arc-psql/dcm4chee-arc-psql
-slapd-dcm4chee/slapd-dcm4chee
-postgres-dcm4chee/postgres-dcm4chee
 nextcloud/nextcloud
 gitlab/gitlab
