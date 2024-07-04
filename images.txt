@@ -1,4 +1,4 @@
 
 
-nextcloud/nextcloud
-gitlab/gitlab
+nextcloud
+gitlab
