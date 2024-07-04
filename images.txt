@@ -1,5 +1,5 @@
 
-mysql/mysql
+mysql:8.0
 dcm4chee-arc-psql:5.13.2
 slapd-dcm4chee:2.4.44-13.2
 postgres-dcm4chee:10.0-13
