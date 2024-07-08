@@ -1,1 +1,1 @@
-fail2ban:latest
+fail2ban
