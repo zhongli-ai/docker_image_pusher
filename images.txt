@@ -1,5 +1,1 @@
-dcm4che/slapd-dcm4chee:2.6.3-29.2
-dcm4che/postgres-dcm4chee:14.5-29
-dcm4che/dcm4chee-arc-psql:5.29.2
-gitlab/gitlab-ce:latest
-redmine
+fail2ban:latest
