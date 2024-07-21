@@ -1,1 +1,2 @@
-crazymax/fail2ban:latest
+elasticsearch:7.13.4
+ kibana:7.13.4
