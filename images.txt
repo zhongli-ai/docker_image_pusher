@@ -1,2 +1,4 @@
-elasticsearch:7.13.4
- kibana:7.13.4
+zabbix/zabbix-java-gateway:alpine-6.2-latest
+zabbix/zabbix-server-mysql:6.2-alpine-latest
+zabbix/zabbix-web-nginx-mysql:alpine-6.2-latest
+zabbix/zabbix-agent:alpine-6.2-latest
