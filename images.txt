@@ -1,3 +1,1 @@
-slapd-dcm4chee:2.4.44-13.2
-dcm4che/postgres-dcm4chee:10.0-13
-dcm4che/postgres-dcm4chee:10.0-13
+easysoft/zentao
